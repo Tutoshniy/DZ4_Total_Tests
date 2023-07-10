@@ -1,0 +1,15 @@
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_badarx: /home/user2/tst/badarx
+size_file: 1M
+count_files: 3
+config_file: config.yaml
+stat_file: /proc/loadavg
+output_file: stat.txt
+
+host: '0.0.0.0'
+username: user2
+password: '2222'
+local_path: /home/user/p7zip-full.deb
+remote_path: /home/user2/p7zip-full.deb
